@@ -1,4 +1,8 @@
-lockfileVersion: '6.0'
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 patchedDependencies:
   '@noble/hashes@1.3.0':
@@ -19,7 +23,7 @@ dependencies:
     specifier: ^2.2.0
     version: 2.2.0
   '@planetscale/database':
-    specifier: ^1.6.0
+    specifier: ^1.7.0
     version: 1.7.0
   '@radix-ui/react-avatar':
     specifier: ^1.0.2
